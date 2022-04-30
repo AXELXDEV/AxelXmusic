@@ -1,4 +1,4 @@
-git+https://github.com/pyrogram/pyrogram@master
+pyrogram==1.4.12
 tgcrypto
 youtube-search
 yt-dlp
